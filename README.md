@@ -8,7 +8,7 @@ also how to calculate probality and prediction are also there.
 
 # how to run
 1. download necessary library like pndas,matplotlib etc.
-2. then remove comments .Only that part which you want to print
+2. then open in conda or python IDE and run.
 3. also if you have any dought you can read comments.
 
 
